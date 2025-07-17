@@ -1,10 +1,12 @@
 {
   "name": "Boncoin",
-  "symbol": "BON",
-  "description": "The official meme coin of bunnies on Solana.",
-  "image": "bon-logo.png",
-  "properties": {
-    "files": [{ "uri": "bon-logo.png", "type": "image/png" }],
-    "category": "image"
-  }
+  "symbol": "BONC",
+  "description": "BON COIN. The future of Meme",
+  "image": "https://raw.githubusercontent.com/kazim1/react/refs/heads/master/bon-logo.png",
+  "attributes": [
+    {
+      "trait_type": "Item",
+      "value": "Developer Testing"
+    }
+  ]
 }
