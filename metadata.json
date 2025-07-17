@@ -1,0 +1,10 @@
+{
+  "name": "Boncoin",
+  "symbol": "BON",
+  "description": "The official meme coin of bunnies on Solana.",
+  "image": "bon-logo.png",
+  "properties": {
+    "files": [{ "uri": "bon-logo.png", "type": "image/png" }],
+    "category": "image"
+  }
+}
